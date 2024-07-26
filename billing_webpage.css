@@ -1,0 +1,2564 @@
+.billing-webpage .groot {
+  margin: 8px 14.5px 8px 0;
+  width: 1112.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.groot {
+  font-family: 'Heebo';
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.billing-webpage .report-an-issue {
+  margin: 12px 30.1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.billing-webpage .rectangle-10 {
+  border-radius: 1px;
+  background: #FFFFFF;
+  margin-bottom: 3.8px;
+  width: 15px;
+  height: 1.5px;
+}
+.billing-webpage .rectangle-11 {
+  border-radius: 1px;
+  background: #FFFFFF;
+  margin-bottom: 3.8px;
+  width: 15px;
+  height: 1.5px;
+}
+.billing-webpage .rectangle-12 {
+  border-radius: 1px;
+  background: #FFFFFF;
+  width: 15px;
+  height: 1.5px;
+}
+.billing-webpage .hamburger-menu {
+  border-radius: 1px;
+  margin: 17px 15px 16px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .rectangle-91 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  width: 12px;
+  height: 2px;
+}
+.billing-webpage .minimize {
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 21px 16px 22px 17px;
+  width: 45px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.billing-webpage .group-12 {
+  width: 13px;
+  height: 13px;
+}
+.billing-webpage .maximize {
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 16px;
+  width: 45px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.billing-webpage .rectangle-92 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  transform: rotate(45deg);
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: 12px;
+  height: 12px;
+}
+.billing-webpage .rectangle-93 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  transform: rotate(-45deg);
+  position: relative;
+  width: 12px;
+  height: 12px;
+}
+.billing-webpage .close-window {
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 16px 17px 17px 16px;
+  width: 45px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.billing-webpage .close-bar {
+  background: #298659;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 135px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-71 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .nav-bar-1 {
+  background: #298659;
+  position: relative;
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 21px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.billing-webpage .billing-information {
+  margin: 0 1.3px 10px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .brand-details {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .this-details-will-be-shown-at-the-top-of-the-final-bill {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #9CA19E;
+}
+.billing-webpage .container-14 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.billing-webpage .logo-1 {
+  width: 50.2px;
+  height: 39.4px;
+}
+.billing-webpage .logo {
+  border-radius: 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 14.7px 9.3px 15.9px 10.5px;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-64 {
+  margin: 0 120px 13px 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1142px;
+  box-sizing: border-box;
+}
+.billing-webpage .brand-name {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .meno-groceries {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-15 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.billing-webpage .date {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .april-2024 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-36 {
+  margin-top: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.billing-webpage .container-78 {
+  margin: 0 30.8px 25px 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1139.2px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-13 {
+  background: rgba(79, 79, 79, 0.2);
+  margin-bottom: 24px;
+  width: 1200px;
+  height: 1px;
+}
+.billing-webpage .sub-lines {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .none {
+  margin-right: 8.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--light-grey, #D9D9D9);
+}
+.billing-webpage .container-72 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.billing-webpage .contact-number {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .container {
+  margin-right: 19.8px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-82 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.billing-webpage .container-35 {
+  margin: 0 48.3px 24px 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1121.7px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-14 {
+  background: rgba(79, 79, 79, 0.2);
+  margin-bottom: 25px;
+  width: 1200px;
+  height: 1px;
+}
+.billing-webpage .address {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .no-14-near-gracier-hall-nh-42-highway-road-anna-nagar-kochi-602108 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.billing-webpage .gst-number {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .container-68 {
+  margin-right: 17px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-10 {
+  margin: 14px 0 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.billing-webpage .container {
+  margin: 0 69px 24px 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1101px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-15 {
+  background: rgba(79, 79, 79, 0.2);
+  margin-bottom: 25px;
+  width: 1200px;
+  height: 1px;
+}
+.billing-webpage .additional-note {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .thank-you-for-purchasing {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-67 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.billing-webpage .edit-details {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .print-button {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 8px;
+  display: flex;
+  padding: 8px 16.1px 6px 15px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-89 {
+  margin: 0 37px 0 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1133px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-73 {
+  border-radius: 10px;
+  border: 1px solid #298659;
+  position: relative;
+  margin: 0 120px 30px 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 31px 0 30px 0;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.billing-webpage .items {
+  margin-right: 23.5px;
+  width: 1007.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .group-16 {
+  margin: 3px 7px 6px 0;
+  width: 15px;
+  height: 15px;
+}
+.billing-webpage .customer-details {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .print-button-2 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  margin: 5px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 13.6px 6px 10px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-43 {
+  margin: 0 120px 10px 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.billing-webpage .sr-no {
+  margin-right: 12px;
+  width: 70px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .item-name {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .container-92 {
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .item-code {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .quantity {
+  margin-right: 12px;
+  width: 90px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .price {
+  margin-right: 5.7px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-9 {
+  margin: 9px 0 10px 0;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .container-18 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-76 {
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 152px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .taxes {
+  margin-right: 5.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-8 {
+  margin: 9px 0 10px 0;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .container-84 {
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .total {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .totalwith-taxes {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .container-31 {
+  border-radius: 5px;
+  background: #298659;
+  position: relative;
+  margin: 0 120px 30px 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 51.4px 11px 20px;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.billing-webpage .rectangle-105 {
+  border-radius: 2px;
+  background: var(--grey, #9CA19E);
+  transform: rotate(-135deg);
+  width: 14px;
+  height: 14px;
+}
+.billing-webpage .group-1 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-45deg);
+  position: relative;
+  margin: 0 0px 6px 0px;
+  display: flex;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.billing-webpage .item-name-4 {
+  margin-right: 10.5px;
+  width: 297.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .item-code-4 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .quantity-4 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .price-4 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .tax-gst {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-taxes {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-26 {
+  margin: 0 32px 9px 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1046px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-31 {
+  margin: 3px 14.5px 2px 0;
+  display: inline-block;
+  width: 53.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .horlicks-350-g {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-4 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 278px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-28 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 100px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-2 {
+  margin-right: 10.5px;
+  width: 21.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-6 {
+  margin-bottom: 8px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-7 {
+  margin-left: 0px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .container-63 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .container-29 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px 12px 5px 20px;
+  width: 72px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-85 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-4 {
+  margin: 1px 1.3px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-32 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-23 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 3px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-87 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-6 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .container-19 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 8px 0.4px 5px 0;
+  width: 156px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-33 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-59 {
+  margin-bottom: 43px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1146px;
+  box-sizing: border-box;
+}
+.billing-webpage .group-6 {
+  border-radius: 2px;
+  margin: 3px 7px 6px 0;
+  width: 12px;
+  height: 12px;
+}
+.billing-webpage .add-item-below {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .add-new-item-below {
+  border-radius: 2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .copy-icon-3 {
+  margin: 4px 6px 4px 0;
+  width: 13px;
+  height: 13px;
+}
+.billing-webpage .copy {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .container-17 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-48 {
+  margin: 0 1.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 215.6px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-75 {
+  border-radius: 10px;
+  background: #EEEEEE;
+  position: relative;
+  margin: 0 120px 30px 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 20px 20px 12px 34px;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.billing-webpage .rectangle-101 {
+  border-radius: 2px;
+  background: var(--grey, #9CA19E);
+  transform: rotate(-135deg);
+  width: 14px;
+  height: 14px;
+}
+.billing-webpage .group-2 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-45deg);
+  position: relative;
+  margin: 0 0px 6px 0px;
+  display: flex;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.billing-webpage .item-name-1 {
+  margin-right: 10.5px;
+  width: 297.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .item-code-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .quantity-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .price-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .tax-gst-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-taxes-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-56 {
+  margin: 0 32px 9px 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1046px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-7 {
+  margin: 3px 14.5px 2px 0;
+  display: inline-block;
+  width: 53.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .dry-fruits-150-g {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-52 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 278px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-8 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-47 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 100px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-13 {
+  margin-right: 10.5px;
+  width: 21.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-1 {
+  margin-bottom: 8px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px {
+  margin-left: 0px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .container-62 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .container-7 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px 12px 5px 20px;
+  width: 72px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-9 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-24 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-12 {
+  margin: 1px 1.3px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-14 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-70 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 3px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-10 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-65 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-11 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .container-60 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 8px 0.4px 5px 0;
+  width: 156px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-30 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-55 {
+  margin-bottom: 43px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1146px;
+  box-sizing: border-box;
+}
+.billing-webpage .group-61 {
+  border-radius: 2px;
+  margin: 3px 7px 6px 0;
+  width: 12px;
+  height: 12px;
+}
+.billing-webpage .add-item-below-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .add-new-item-below-1 {
+  border-radius: 2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .copy-icon-2 {
+  margin: 4px 6px 4px 0;
+  width: 13px;
+  height: 13px;
+}
+.billing-webpage .copy-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .container-86 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-69 {
+  margin: 0 1.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 215.6px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-13 {
+  border-radius: 10px;
+  background: #EEEEEE;
+  position: relative;
+  margin: 0 120px 30px 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 20px 20px 12px 34px;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.billing-webpage .rectangle-102 {
+  border-radius: 2px;
+  background: var(--grey, #9CA19E);
+  transform: rotate(-135deg);
+  width: 14px;
+  height: 14px;
+}
+.billing-webpage .group-3 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-45deg);
+  position: relative;
+  margin: 0 0px 6px 0px;
+  display: flex;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.billing-webpage .item-name-2 {
+  margin-right: 10.5px;
+  width: 297.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .item-code-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .quantity-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .price-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .tax-gst-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-taxes-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-51 {
+  margin: 0 32px 9px 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1046px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-15 {
+  margin: 3px 14.5px 2px 0;
+  display: inline-block;
+  width: 53.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .chocolates-box-60-g {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-57 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 278px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-16 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-41 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 100px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-21 {
+  margin-right: 16.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-3 {
+  margin-bottom: 8px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-2 {
+  margin-left: 0px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .container-6 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .container-5 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 12px 5px 20px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-17 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-20 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-20 {
+  margin: 1px 1.3px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-22 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-44 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 3px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-18 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-9 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-19 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .container-42 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 8px 2.5px 5px 0;
+  width: 156px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-93 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-83 {
+  margin-bottom: 43px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1146px;
+  box-sizing: border-box;
+}
+.billing-webpage .group-62 {
+  border-radius: 2px;
+  margin: 3px 7px 6px 0;
+  width: 12px;
+  height: 12px;
+}
+.billing-webpage .add-item-below-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .add-new-item-below-2 {
+  border-radius: 2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .copy-icon-1 {
+  margin: 4px 6px 4px 0;
+  width: 13px;
+  height: 13px;
+}
+.billing-webpage .copy-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .container-45 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-68 {
+  margin: 0 1.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 215.6px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-2 {
+  border-radius: 10px;
+  background: #EEEEEE;
+  position: relative;
+  margin: 0 120px 30px 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 20px 20px 12px 34px;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.billing-webpage .rectangle-104 {
+  border-radius: 2px;
+  background: var(--grey, #9CA19E);
+  transform: rotate(-135deg);
+  width: 14px;
+  height: 14px;
+}
+.billing-webpage .group-4 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-45deg);
+  position: relative;
+  margin: 0 0px 6px 0px;
+  display: flex;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.billing-webpage .item-name-3 {
+  margin-right: 10.5px;
+  width: 297.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .item-code-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .quantity-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .price-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .tax-gst-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-4 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .total-taxes-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-11 {
+  margin: 0 32px 9px 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1046px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-23 {
+  margin: 3px 14.5px 2px 0;
+  display: inline-block;
+  width: 53.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .protein-bar-100-g {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-22 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 278px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-24 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-53 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 100px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-29 {
+  margin-right: 10.5px;
+  width: 21.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-5 {
+  margin-bottom: 8px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .iconnavigationarrow-drop-down-24-px-4 {
+  margin-left: 0px;
+  width: 8px;
+  height: 5px;
+}
+.billing-webpage .container-94 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .container-3 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px 12px 5px 20px;
+  width: 72px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-25 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-16 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-28 {
+  margin: 1px 1.3px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-30 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-54 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 3px 20px;
+  width: 80px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-26 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-49 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  padding: 8px 20px 5px 20px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-27 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .container-91 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 8px 0.5px 5px 0;
+  width: 156px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-79 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-32 {
+  margin-bottom: 43px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1146px;
+  box-sizing: border-box;
+}
+.billing-webpage .copy-icon {
+  margin: 4px 6px 4px 0;
+  width: 13px;
+  height: 13px;
+}
+.billing-webpage .copy-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .container-58 {
+  margin: 0 1.4px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .container-74 {
+  border-radius: 10px;
+  background: #EEEEEE;
+  position: relative;
+  margin: 0 120px 30px 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 20px 20px 12px 34px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .add-icon-items {
+  border-radius: 2px;
+  margin: 4px 11px 4px 0;
+  width: 16px;
+  height: 16px;
+}
+.billing-webpage .add-item {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .add-button {
+  border-radius: 5px;
+  background: #298659;
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  padding: 7px 0 7px 17px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-2 {
+  background: rgba(79, 79, 79, 0.2);
+  margin: 0 120px 29px 120px;
+  width: 1200px;
+  height: 1px;
+}
+.billing-webpage .total-amount-rs-2870 {
+  margin: 0 126.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 20px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .without-gst {
+  margin: 0 120.8px 17px 120.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage .number-of-items-21 {
+  margin: 9px 14.5px 9px 0;
+  width: 847.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 20px;
+  color: var(--primary-color, #298659);
+}
+.number-of-items-21-sub9 {
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #4F4F4F;
+}
+.number-of-items-21-sub8 {
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.billing-webpage .total-amount-rs-3368 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  color: #000000;
+}
+.total-amount-rs-3368-sub2 {
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1.333;
+  color: var(--accent-color, #4F4F4F);
+}
+.total-amount-rs-3368 {
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1.333;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .container-27 {
+  margin: 0 122.2px 39px 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1197.8px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-1 {
+  background: rgba(79, 79, 79, 0.2);
+  margin: 0 120px 44px 120px;
+  width: 1200px;
+  height: 1px;
+}
+.billing-webpage .billing-form {
+  margin-right: 23.5px;
+  width: 897.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary-color, #298659);
+}
+.billing-webpage .iconfilecloud-upload-24-px-1 {
+  width: 24px;
+  height: 16px;
+}
+.billing-webpage .iconfilecloud-upload-24-px {
+  margin: 4px 8px 4px 0;
+  display: flex;
+  width: 24px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.billing-webpage .automatically-saves-in-daily-report {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-46 {
+  margin: 18px 0 5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-34 {
+  margin: 0 123.2px 10px 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1196.8px;
+  box-sizing: border-box;
+}
+.billing-webpage .logo-2 {
+  margin-top: 10px;
+  width: 64.7px;
+  height: 53px;
+}
+.billing-webpage .meno-groceries-1 {
+  margin-top: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 36px;
+  color: #000000;
+}
+.billing-webpage .telephone-987654321 {
+  margin-bottom: 39px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.billing-webpage .container-37 {
+  margin: 0 0.6px 0 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1059.4px;
+  box-sizing: border-box;
+}
+.billing-webpage .bill-no-10021500567 {
+  margin: 43px 12px 0 0;
+  display: inline-block;
+  width: 406.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.billing-webpage .no-14-near-gracier-hall-nh-42-highway-road-anna-nagar-kochi {
+  margin-bottom: 19px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-67 {
+  margin-top: 43px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.billing-webpage .container-21 {
+  margin: 0 1.8px 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1158.2px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-8 {
+  background: #4F4F4F;
+  margin-bottom: 9px;
+  width: 1160px;
+  height: 1px;
+}
+.billing-webpage .sr-no-1 {
+  margin: 9px 12px 15px 0;
+  display: inline-block;
+  width: 86px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .item-name-5 {
+  margin: 9px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .item-code-5 {
+  margin: 9px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .quantity-5 {
+  margin: 9px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .price-5 {
+  margin: 9px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .taxes-1 {
+  margin: 9px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .total-5 {
+  margin: 9px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .totalwith-gst {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-77 {
+  margin: 0 19.2px 2px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1138.8px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-9 {
+  background: #4F4F4F;
+  margin-bottom: 12px;
+  width: 1160px;
+  height: 1px;
+}
+.billing-webpage .container-33 {
+  margin-right: 12px;
+  width: 72px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #298659;
+}
+.billing-webpage .horlicks-350-g-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-34 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-39 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-35 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-38 {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-40 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-36 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-37 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-61 {
+  margin: 0 43px 14px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1101px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-41 {
+  margin-right: 12px;
+  width: 72px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #298659;
+}
+.billing-webpage .dry-fruits-150-g-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-42 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-49 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-43 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-46 {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-50 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-40 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-44 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-45 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-50 {
+  margin: 0 43px 14px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1101px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-53 {
+  margin: 0 12px 24px 0;
+  display: inline-block;
+  width: 72px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #298659;
+}
+.billing-webpage .chocolates-box-60-g-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-54 {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-58 {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-55 {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-47 {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-51 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-39 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-56 {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-57 {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-81 {
+  margin: 0 44px 15px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1100px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-59 {
+  margin-right: 12px;
+  width: 72px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #298659;
+}
+.billing-webpage .protein-bar-100-g-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-60 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-66 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-61 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-48 {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-52 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .container-12 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.billing-webpage .container-62 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-63 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-38 {
+  margin: 0 44px 217px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1100px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-11 {
+  background: #4F4F4F;
+  margin-bottom: 6px;
+  width: 1160px;
+  height: 1px;
+}
+.billing-webpage .container-69 {
+  margin: 0 12px 1px 0;
+  display: inline-block;
+  width: 320px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-65 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-64 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-66 {
+  margin: 0 44px 2px 44px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 582px;
+  box-sizing: border-box;
+}
+.billing-webpage .line-10 {
+  background: #4F4F4F;
+  margin-bottom: 7px;
+  width: 1160px;
+  height: 1px;
+}
+.billing-webpage .thank-you-for-purchasing-1 {
+  margin: 25px 12px 0 0;
+  display: inline-block;
+  width: 359px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.billing-webpage .total-amount {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 20px;
+  color: #4F4F4F;
+}
+.billing-webpage .rs-3368 {
+  position: relative;
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 20px;
+  color: #4F4F4F;
+}
+.billing-webpage .container-88 {
+  margin: 0 44px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 629px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-80 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 1160px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.billing-webpage .line-12 {
+  background: #4F4F4F;
+  position: absolute;
+  right: 193px;
+  bottom: 96px;
+  width: 1px;
+  height: 487px;
+}
+.billing-webpage .with-gst-1 {
+  position: absolute;
+  right: 63.1px;
+  bottom: 45px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 12px;
+  color: #9CA19E;
+}
+.billing-webpage .container-90 {
+  border-radius: 10px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 120px 23px 120px;
+  display: flex;
+  padding: 20px 20px 39px 20px;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.billing-webpage .print {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.billing-webpage .print-button-1 {
+  border-radius: 5px;
+  background: #298659;
+  position: relative;
+  margin: 0 120px;
+  display: flex;
+  padding: 8px 0 6px 0.3px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.billing-webpage .container-25 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.billing-webpage .with-gst {
+  position: absolute;
+  right: 122.1px;
+  bottom: 1158px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.billing-webpage {
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 225px;
+  width: 1440px;
+  box-sizing: border-box;
+}

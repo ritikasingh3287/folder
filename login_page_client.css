@@ -1,0 +1,375 @@
+.groot-1 {
+  font-family: 'Heebo';
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.login-page-cilent .groot-1 {
+  margin: 8px 14.5px 8px 0;
+  width: 1103.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-page-cilent .report-an-issue {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.login-page-cilent .rectangle-91 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  width: 12px;
+  height: 2px;
+}
+.login-page-cilent .minimize {
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 21px 16px 22px 17px;
+  width: 45px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.login-page-cilent .group-12 {
+  width: 13px;
+  height: 13px;
+}
+.login-page-cilent .maximize {
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 16px;
+  width: 45px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.login-page-cilent .rectangle-92 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  transform: rotate(45deg);
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: 12px;
+  height: 12px;
+}
+.login-page-cilent .rectangle-93 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  transform: rotate(-45deg);
+  position: relative;
+  width: 12px;
+  height: 12px;
+}
+.login-page-cilent .close-window {
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 16px 17px 17px 16px;
+  width: 45px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.login-page-cilent .close-bar {
+  background: #298659;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 135px;
+  box-sizing: border-box;
+}
+.login-page-cilent .nav-bar {
+  background: #298659;
+  position: relative;
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 30px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.groot {
+  font-family: 'Heebo';
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 1.333;
+}
+.login-page-cilent .groot {
+  position: relative;
+  margin-right: 47px;
+  width: 261px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 64px;
+  color: var(--primary-color, #298659);
+}
+.groot-sub9 {
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 1.333;
+}
+.login-page-cilent .rectangle-76 {
+  border-radius: 10px;
+  background: #298659;
+  margin: 83px 0 3px 0;
+  width: 585px;
+  height: 8px;
+}
+.login-page-cilent .container-1 {
+  margin: 0 120px 27px 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 893px;
+  box-sizing: border-box;
+}
+.login-page-cilent .rectangle-83 {
+  border-radius: 0 10px 10px 0;
+  background: linear-gradient(270deg, rgba(41, 134, 89, 0.3), rgba(62, 187, 126, 0.3));
+  margin: 290px 30px 0 0;
+  width: 59px;
+  height: 284px;
+}
+.login-page-cilent .rectangle-82 {
+  border-radius: 10px;
+  background: var(--primary-color, #298659);
+  margin: 0 0px 30px 0px;
+  width: 59px;
+  height: 61px;
+}
+.login-page-cilent .rectangle-81 {
+  border-radius: 0 10px 10px 0;
+  background: linear-gradient(270deg, rgba(41, 134, 89, 0.3), rgba(62, 187, 126, 0.3));
+  width: 59px;
+  height: 193px;
+}
+.login-page-cilent .container-8 {
+  margin: 290px 160px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 59px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page-cilent .company-log-in {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary-color, #298659);
+}
+.login-page-cilent .only-company-owner-and-higher-officials-can-log-in {
+  margin-bottom: 33px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.login-page-cilent .username {
+  margin: 5px 30.4px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.login-page-cilent .enter-avalid-username {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.login-page-cilent .container {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 7px 57px 6px 0;
+  width: 280px;
+  box-sizing: border-box;
+}
+.login-page-cilent .container-2 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page-cilent .password {
+  margin: 5px 32.1px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.login-page-cilent .enter-password {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--grey, #9CA19E);
+}
+.login-page-cilent .container-10 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 7px 103px 6px 0;
+  width: 280px;
+  box-sizing: border-box;
+}
+.login-page-cilent .container-11 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page-cilent .forget-password {
+  margin: 0 0.7px 27px 0.7px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--primary-color, #298659);
+}
+.login-page-cilent .submit {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.login-page-cilent .add-button {
+  border-radius: 5px;
+  background: #298659;
+  position: relative;
+  display: flex;
+  align-self: flex-end;
+  padding: 6px 0 5px 0.6px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.login-page-cilent .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.login-page-cilent .subtract {
+  position: absolute;
+  left: 82px;
+  top: 31px;
+  width: 84px;
+  height: 40px;
+}
+.login-page-cilent .container-9 {
+  border-radius: 5px;
+  border: 1px solid rgba(41, 134, 89, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 30px 0px;
+  display: flex;
+  padding: 34px 0 45px 1px;
+  width: 584px;
+  box-sizing: border-box;
+}
+.login-page-cilent .rectangle-77 {
+  border-radius: 10px;
+  background: #298659;
+  width: 585px;
+  height: 8px;
+}
+.login-page-cilent .container-6 {
+  margin: 0 159px 176px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 585px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page-cilent .rectangle-80 {
+  border-radius: 10px;
+  background: var(--primary-color, #298659);
+  margin: 0 0px 30px 0px;
+  width: 59px;
+  height: 61px;
+}
+.login-page-cilent .rectangle-78 {
+  border-radius: 0 10px 10px 0;
+  background: linear-gradient(270deg, rgba(41, 134, 89, 0.3), rgba(62, 187, 126, 0.3));
+  width: 59px;
+  height: 193px;
+}
+.login-page-cilent .container-5 {
+  margin: 290px 30px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 59px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page-cilent .rectangle-79 {
+  border-radius: 0 10px 10px 0;
+  background: linear-gradient(270deg, rgba(41, 134, 89, 0.3), rgba(62, 187, 126, 0.3));
+  margin-top: 290px;
+  width: 59px;
+  height: 284px;
+}
+.login-page-cilent .container-7 {
+  margin: 0 120px;
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.login-page-cilent .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page-cilent .abilling-software-for-businesses {
+  position: absolute;
+  left: 123px;
+  top: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--primary-color, #298659);
+}
+.login-page-cilent {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

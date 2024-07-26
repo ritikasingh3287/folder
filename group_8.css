@@ -1,0 +1,195 @@
+.group-8 .colours {
+  margin-right: 23.5px;
+  width: 400.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .hex-code {
+  margin: 9px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .container-2 {
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 537.2px;
+  box-sizing: border-box;
+}
+.group-8 .primary-colour {
+  margin: 10px 29.1px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .rectangle-70 {
+  border-radius: 5px;
+  background: var(--primary-color, #298659);
+  width: 86px;
+  height: 45px;
+}
+.group-8 .container {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.group-8 .container {
+  margin-top: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .container-3 {
+  margin: 0 4px 39px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 520.9px;
+  box-sizing: border-box;
+}
+.group-8 .accent-colour {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .for-texts-and-lines {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 14px;
+  color: #9CA19E;
+}
+.group-8 .container-6 {
+  margin: 5px 37.9px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.group-8 .rectangle-71 {
+  border-radius: 5px;
+  background: var(--accent-color, #4F4F4F);
+  margin-bottom: 16px;
+  width: 86px;
+  height: 45px;
+}
+.group-8 .container-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.group-8 .f-4-f-4-f {
+  margin: 12px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .container-7 {
+  margin: 0 4px 27px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 513.6px;
+  box-sizing: border-box;
+}
+.group-8 .grey {
+  margin: 5px 17.5px 7px 0;
+  display: inline-block;
+  width: 169.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .rectangle-72 {
+  border-radius: 5px;
+  background: var(--grey, #9CA19E);
+  margin-bottom: 2px;
+  width: 86px;
+  height: 45px;
+}
+.group-8 .d-9-d-9-d-9 {
+  margin-top: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .container-1 {
+  margin: 0 4px 41px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 521px;
+  box-sizing: border-box;
+}
+.group-8 .pale-white {
+  margin: 5px 17.5px 7px 0;
+  display: inline-block;
+  width: 169.5px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .rectangle-73 {
+  border-radius: 5px;
+  background: var(--pale-white, #EEEEEE);
+  margin-bottom: 2px;
+  width: 86px;
+  height: 45px;
+}
+.group-8 .eaf-3-ee {
+  margin-top: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.group-8 .container-5 {
+  margin: 0 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 516.5px;
+  box-sizing: border-box;
+}
+.group-8 {
+  border-radius: 10px;
+  background: #FFFCFC;
+  display: flex;
+  flex-direction: column;
+  padding: 31px 0 85px 57px;
+  box-sizing: border-box;
+}

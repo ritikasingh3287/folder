@@ -1,0 +1,12 @@
+<svg width="40" height="50" viewBox="0 0 40 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M36.212,4.679C37.055,4.143 37.304,3.024 36.767,2.181C36.23,1.337 35.112,1.089 34.268,1.625L36.212,4.679ZM22.188,9.313C21.345,9.85 21.096,10.969 21.633,11.812C22.17,12.655 23.289,12.904 24.132,12.367L22.188,9.313ZM34.268,1.625L22.188,9.313L24.132,12.367L36.212,4.679L34.268,1.625Z" fill="#4F4F4F"/>
+<path d="M13.2,35.002L0,35.002L0,49.982L13.2,49.982L13.2,35.002Z" fill="#4F4F4F" stroke="#FFFFFF" stroke-width="0.9" stroke-miterlimit="10"/>
+<path d="M26.6,23.407L13.4,23.407L13.4,50L26.6,50L26.6,23.407Z" fill="#4F4F4F" stroke="#FFFFFF" stroke-width="0.9" stroke-miterlimit="10"/>
+<path d="M40,14.729L26.8,14.729L26.8,49.838L40,49.838L40,14.729Z" fill="#4F4F4F" stroke="#FFFFFF" stroke-width="0.9" stroke-miterlimit="10"/>
+<line x1="7.54" y1="19.572" x2="7.54" y2="30.429" fill="#4F4F4F" stroke="#4F4F4F" stroke-width="2" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="bevel"/>
+<line x1="9.54" y1="17.618" x2="22.56" y2="17.618" fill="#4F4F4F" stroke="#4F4F4F" stroke-width="1.81" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="bevel"/>
+<line x1="1.88" y1="28.753" x2="9.54" y2="28.753" fill="#4F4F4F" stroke="#4F4F4F" stroke-width="2" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="bevel"/>
+<line x1="20.75" y1="11.416" x2="20.75" y2="19.284" fill="#4F4F4F" stroke="#4F4F4F" stroke-width="1.81" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M34.981,4.944C35.97,5.087 36.888,4.4 37.031,3.411C37.174,2.422 36.488,1.504 35.498,1.361L34.981,4.944ZM27.518,0.209C26.529,0.066 25.611,0.752 25.468,1.741C25.325,2.731 26.012,3.649 27.001,3.791L27.518,0.209ZM35.498,1.361L27.518,0.209L27.001,3.791L34.981,4.944L35.498,1.361Z" fill="#4F4F4F"/>
+<path d="M37.05,3.108C37.025,2.109 36.195,1.319 35.196,1.343C34.197,1.367 33.406,2.197 33.431,3.196L37.05,3.108ZM33.571,8.94C33.595,9.939 34.425,10.73 35.424,10.705C36.424,10.681 37.214,9.851 37.19,8.852L33.571,8.94ZM33.431,3.196L33.571,8.94L37.19,8.852L37.05,3.108L33.431,3.196Z" fill="#4F4F4F"/>
+</svg>

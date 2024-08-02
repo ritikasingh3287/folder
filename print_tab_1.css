@@ -1,0 +1,973 @@
+.print-tab-1 .preview {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.print-tab-1 .container-14 {
+  border-radius: 3px;
+  background: rgba(41, 134, 89, 0.47);
+  position: relative;
+  margin-bottom: 70px;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 3.1px 0 3px;
+  box-sizing: border-box;
+}
+.print-tab-1 .report-1 {
+  margin: 0.4px 8px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 8.3px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .chocolate-box {
+  margin-right: 4px;
+  width: 62.7px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.8px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .iconactionsearch-24-px-1 {
+  width: 5.9px;
+  height: 5.9px;
+}
+.print-tab-1 .iconactionsearch-24-px {
+  margin: 1.2px 0 0.9px 0;
+  display: flex;
+  width: 5.9px;
+  height: 5.9px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-8 {
+  border-radius: 2.1px;
+  border: 0.4px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 0.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.5px 6.2px 2px 0;
+  width: 117.2px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-33 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.print-tab-1 .day {
+  margin: 2.1px 8.8px 2.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.8px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .line-19 {
+  background: #D9D9D9;
+  margin: 2.1px 2.1px 2.5px 0;
+  width: 0.4px;
+  height: 7.9px;
+}
+.print-tab-1 .week {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.8px;
+  color: var(--white, #FFFFFF);
+}
+.print-tab-1 .container-21 {
+  border-radius: 2.1px;
+  border: 0.4px solid #298659;
+  background: #298659;
+  position: relative;
+  margin-right: 2.1px;
+  display: flex;
+  padding: 2.1px 6.9px 2.4px 5.8px;
+  box-sizing: border-box;
+}
+.print-tab-1 .line-21 {
+  background: #D9D9D9;
+  margin: 2.1px 7.9px 2.5px 0;
+  width: 0.4px;
+  height: 7.9px;
+}
+.print-tab-1 .month {
+  margin: 2.1px 9.1px 2.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.8px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .line-20 {
+  background: #D9D9D9;
+  margin: 2.1px 7.9px 2.5px 0;
+  width: 0.4px;
+  height: 7.9px;
+}
+.print-tab-1 .year {
+  margin: 2.1px 0 2.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.8px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .group-15 {
+  border-radius: 2.1px;
+  border: 0.4px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 0.9px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 9px 0 8.3px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-9 {
+  margin: 0 0px 3.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 309.6px;
+  box-sizing: border-box;
+}
+.print-tab-1 .rectangle-116 {
+  border-radius: 2.1px;
+  background: var(--primary-color, #298659);
+  margin-bottom: 4.2px;
+  width: 309.6px;
+  height: 2.1px;
+}
+.print-tab-1 .april-202420-april-2024 {
+  margin: 0 5.8px 5.4px 5.8px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 5.8px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .units-sold {
+  margin: 5.6px 15.8px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .container-5 {
+  margin: 0 4.8px 0.5px 4.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .rectangle-137 {
+  background: #C2E4D4;
+  width: 14.6px;
+  height: 50.1px;
+}
+.print-tab-1 .container-15 {
+  margin: 0 27.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-6 {
+  margin: 0 5.9px 0.5px 5.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .rectangle-138 {
+  background: #E3E4C2;
+  width: 14.6px;
+  height: 27.5px;
+}
+.print-tab-1 .container-11 {
+  margin: 22.5px 27.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-7 {
+  margin: 0 5.9px 0.5px 5.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .rectangle-139 {
+  background: #E4C2C2;
+  width: 14.6px;
+  height: 4.2px;
+}
+.print-tab-1 .container-28 {
+  margin: 45.9px 27.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-8 {
+  margin: 0 5.9px 0.5px 5.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .rectangle-140 {
+  background: #E4D6C2;
+  width: 14.6px;
+  height: 11.7px;
+}
+.print-tab-1 .container-22 {
+  margin: 38.4px 27.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-9 {
+  margin: 0 5.9px 0 5.8px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .rectangle-141 {
+  background: #E4CAC2;
+  width: 14.6px;
+  height: 7.9px;
+}
+.print-tab-1 .container-27 {
+  margin: 43px 27.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-11 {
+  margin: 0 5.9px 0.5px 5.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .rectangle-142 {
+  background: #E4C2C2;
+  width: 14.6px;
+  height: 4.2px;
+}
+.print-tab-1 .container-12 {
+  margin: 45.9px 27.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-10 {
+  margin: 0 5.9px 0.5px 5.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .rectangle-143 {
+  background: #DBE4C2;
+  width: 14.6px;
+  height: 22.5px;
+}
+.print-tab-1 .container-19 {
+  margin-top: 27.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-1 {
+  margin-bottom: 1.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.print-tab-1 .sun {
+  margin-right: 3.5px;
+  width: 38.2px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .mon {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .tue {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .wed {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .thu {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .fri {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .sat {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .container-23 {
+  margin: 0 3.9px 0 25.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 258.1px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-39 {
+  border-radius: 2.1px;
+  border: 0.4px solid #9CA19E;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 33.4px 17.9px 1.8px 4px;
+  box-sizing: border-box;
+}
+.print-tab-1 .line-50 {
+  background: #D9D9D9;
+  position: absolute;
+  left: 14.2px;
+  top: 50%;
+  translate: 0 -50%;
+  width: 281.2px;
+  height: 0.4px;
+}
+.print-tab-1 .line-49 {
+  background: #9CA19E;
+  position: absolute;
+  left: 14.2px;
+  bottom: 9.6px;
+  width: 281.2px;
+  height: 0.4px;
+}
+.print-tab-1 .line-48 {
+  background: #9CA19E;
+  position: absolute;
+  left: 14.2px;
+  bottom: 10px;
+  width: 0.4px;
+  height: 80.5px;
+}
+.print-tab-1 .container-3 {
+  position: relative;
+  margin-bottom: 12.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.print-tab-1 .number-of-units-sold {
+  margin-right: 4.5px;
+  width: 150.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .container-16 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 162px;
+  box-sizing: border-box;
+}
+.print-tab-1 .number-of-customers-bought-this {
+  margin-right: 4.5px;
+  width: 150.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .container-38 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 162px;
+  box-sizing: border-box;
+}
+.print-tab-1 .cost-of-the-product {
+  margin-right: 4.5px;
+  width: 150.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .rs-120 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .container-6 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 174.7px;
+  box-sizing: border-box;
+}
+.print-tab-1 .total-profit-without-gst {
+  margin-right: 4.5px;
+  width: 150.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .rs-3360 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .container-32 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 178.3px;
+  box-sizing: border-box;
+}
+.print-tab-1 .applied-tax-gst {
+  margin-right: 4.5px;
+  width: 150.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-4 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 6.7px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .container {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 166.7px;
+  box-sizing: border-box;
+}
+.print-tab-1 .total-profit-with-gst {
+  margin-right: 4.5px;
+  width: 150.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 6.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .rs-3964 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 6.7px;
+  color: var(--primary-color, #298659);
+}
+.print-tab-1 .container-29 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 179.3px;
+  box-sizing: border-box;
+}
+.print-tab-1 .report {
+  background: #FFFFFF;
+  margin-left: 47px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  padding: 31.7px 23.8px 32.7px 23.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-26 {
+  border-radius: 10px;
+  background: #4F4F4F;
+  position: relative;
+  margin: 8px 37px 0 0;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0 103px 10px;
+  width: 485px;
+  box-sizing: border-box;
+}
+.print-tab-1 .print {
+  margin-right: 9.6px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .group {
+  margin: 7px 0 8px 0;
+  width: 20px;
+  height: 20px;
+}
+.print-tab-1 .container-5 {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.print-tab-1 .rectangle-9 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-45deg);
+  position: absolute;
+  left: 13px;
+  top: 13px;
+  width: 14px;
+  height: 14px;
+}
+.print-tab-1 .rectangle-10 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-135deg);
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.print-tab-1 .close-print-tab {
+  border-radius: 20px;
+  background: rgba(41, 134, 89, 0.05);
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  padding: 13px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-17 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 533px;
+  box-sizing: border-box;
+}
+.print-tab-1 .sheets {
+  margin: 5px 12px 5px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container {
+  margin-right: 14px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .iconnavigationarrow-drop-down-24-px-2 {
+  margin-bottom: 8px;
+  width: 8px;
+  height: 5px;
+}
+.print-tab-1 .iconnavigationarrow-drop-down-24-px {
+  margin-left: 0px;
+  width: 8px;
+  height: 5px;
+}
+.print-tab-1 .container-18 {
+  margin: 2px 0 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-25 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 6px 8px 4px 0;
+  width: 125px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-2 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.print-tab-1 .colour-print {
+  margin-right: 12px;
+  width: 209px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .rectangle-52 {
+  border-radius: 3px;
+  background: #FFFFFF;
+  width: 14px;
+  height: 14px;
+}
+.print-tab-1 .container-40 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #298659;
+  position: relative;
+  margin: 2px 0;
+  display: flex;
+  padding: 3px;
+  width: 44px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-24 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.print-tab-1 .paper-dimension {
+  margin: 5px 18.5px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .a-4 {
+  margin-right: 14.6px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .iconnavigationarrow-drop-down-24-px-1 {
+  margin: 9px 0 10px 0;
+  width: 8px;
+  height: 5px;
+}
+.print-tab-1 .container-36 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 6px 8px 4px 0;
+  width: 125px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-10 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.print-tab-1 .aspect-ratio {
+  margin: 5px 12px 5px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-31 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 0 4px 11px;
+  width: 125px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-20 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.print-tab-1 .line-13 {
+  background: #9CA19E;
+  margin: 0 13px 24px 0;
+  width: 520px;
+  height: 1px;
+}
+.print-tab-1 .margin {
+  margin: 6px 12px 4px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .px {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-13 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab-1 .px-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.print-tab-1 .container-34 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab-1 .px-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-41 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab-1 .px-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab-1 .container-30 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab-1 .custom {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab-1 .container-4 {
+  border-radius: 5px;
+  border: 1px solid #9CA19E;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 7px 16.3px 3px 16px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-7 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-37 {
+  margin: 0 13px 30px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 520px;
+  box-sizing: border-box;
+}
+.print-tab-1 .rectangle-61 {
+  border-radius: 3px;
+  background: #FFFFFF;
+  margin: 0 23px 114px 0;
+  align-self: center;
+  width: 14px;
+  height: 14px;
+}
+.print-tab-1 .print-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.print-tab-1 .final-print-button {
+  border-radius: 5px;
+  background: #298659;
+  position: relative;
+  margin: 0 13px;
+  display: flex;
+  align-self: flex-end;
+  padding: 8px 0 6px 0.3px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.print-tab-1 .container-35 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.print-tab {
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 9.8px;
+  background: #FFFFFF content-box, linear-gradient(285.2deg, #EAFFF5 -0.9%, #298659 100%) border-box;
+  border: 2px solid transparent;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 15px 28px 27px;
+  width: 1101px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,11 @@
+.property-1-variant-2 .rectangle-106 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  width: 247px;
+  height: 55px;
+}
+.property-1-variant-2 {
+  display: flex;
+  box-sizing: border-box;
+}

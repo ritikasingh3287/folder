@@ -1,0 +1,1065 @@
+.print-tab .preview {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.print-tab .container-12 {
+  border-radius: 3px;
+  background: rgba(41, 134, 89, 0.47);
+  position: relative;
+  margin: 0 27px 428px 0;
+  display: flex;
+  padding: 0 3.1px 0 3px;
+  box-sizing: border-box;
+}
+.print-tab .logo {
+  margin: 3.9px 31.2px 7.8px 0;
+  width: 26.1px;
+  height: 19.8px;
+}
+.print-tab .meno-groceries {
+  margin: 5.5px 7.4px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 17.2px;
+  color: #000000;
+}
+.print-tab .telephone-987654321 {
+  margin-bottom: 23.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #000000;
+}
+.print-tab .container-9 {
+  margin: 0 3.5px 0 11.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.print-tab .no-14-near-gracier-hall-nh-42-highway-road-anna-nagar-kochi {
+  margin: 0 0 3.6px 0.3px;
+  display: inline-block;
+  align-self: center;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .bill-no-10021500567 {
+  margin-right: 4px;
+  width: 225.2px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #000000;
+}
+.print-tab .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #000000;
+}
+.print-tab .container-5 {
+  margin: 0 2px 3.5px 0.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 258.3px;
+  box-sizing: border-box;
+}
+.print-tab .line-8 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 260.2px;
+  height: 0.5px;
+}
+.print-tab .line-11 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  bottom: 15.8px;
+  width: 260.2px;
+  height: 0.5px;
+}
+.print-tab .line-9 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 28.6px;
+  width: 260.2px;
+  height: 0.5px;
+}
+.print-tab .sr-no {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-11 {
+  position: absolute;
+  left: 6.7px;
+  top: 53px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #298659;
+}
+.print-tab .container-29 {
+  position: absolute;
+  left: 6.7px;
+  top: 96.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #298659;
+}
+.print-tab .container-3 {
+  position: absolute;
+  left: 6.7px;
+  top: 34.9px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #298659;
+}
+.print-tab .container-23 {
+  position: absolute;
+  left: 6.7px;
+  top: 71.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #298659;
+}
+.print-tab .protein-bar-100-g {
+  position: absolute;
+  left: 22.4px;
+  top: 96.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .dry-fruits-150-g {
+  position: absolute;
+  left: 22.4px;
+  top: 53px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .chocolates-box-60-g {
+  position: absolute;
+  left: 22.4px;
+  top: 71.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .item-name {
+  position: absolute;
+  left: 22.4px;
+  top: 9.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .horlicks-350-g {
+  position: absolute;
+  left: 22.4px;
+  top: 34.9px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-24 {
+  position: absolute;
+  left: 79.7px;
+  top: 71.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-30 {
+  position: absolute;
+  left: 79.7px;
+  top: 96.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-4 {
+  position: absolute;
+  left: 79.7px;
+  top: 34.9px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .item-code {
+  position: absolute;
+  left: 79.7px;
+  top: 9.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-12 {
+  position: absolute;
+  left: 79.7px;
+  top: 53px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .quantity {
+  position: absolute;
+  left: 115.5px;
+  top: 9.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-36 {
+  position: absolute;
+  left: 119.1px;
+  bottom: 4.6px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-28 {
+  position: absolute;
+  left: 119.8px;
+  top: 71.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-9 {
+  position: absolute;
+  left: 123.2px;
+  top: 34.9px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-37 {
+  position: absolute;
+  left: 123.2px;
+  top: 96.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-19 {
+  position: absolute;
+  left: 123.2px;
+  top: 53px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .price {
+  position: absolute;
+  top: 9.1px;
+  right: 101.8px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-13 {
+  position: absolute;
+  top: 53px;
+  right: 103.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-31 {
+  position: absolute;
+  top: 96.4px;
+  right: 103.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-5 {
+  position: absolute;
+  top: 34.9px;
+  right: 103.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-25 {
+  position: absolute;
+  top: 71.1px;
+  right: 103.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .taxes {
+  position: absolute;
+  top: 9.1px;
+  right: 77.1px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-8 {
+  position: absolute;
+  top: 34.9px;
+  right: 83.7px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-17 {
+  position: absolute;
+  top: 71.1px;
+  right: 83.7px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-18 {
+  position: absolute;
+  top: 96.4px;
+  right: 83.7px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-16 {
+  position: absolute;
+  top: 53px;
+  right: 83.7px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-22 {
+  position: absolute;
+  top: 96.4px;
+  right: 77.8px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-10 {
+  position: absolute;
+  top: 34.9px;
+  right: 77.8px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-21 {
+  position: absolute;
+  top: 71.1px;
+  right: 77.8px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-20 {
+  position: absolute;
+  top: 53px;
+  right: 77.8px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-32 {
+  position: absolute;
+  top: 96.4px;
+  right: 54.2px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-35 {
+  position: absolute;
+  right: 50.9px;
+  bottom: 4.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .total {
+  position: absolute;
+  top: 9.1px;
+  right: 51.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-26 {
+  position: absolute;
+  top: 71.1px;
+  right: 54.2px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-6 {
+  position: absolute;
+  top: 34.9px;
+  right: 54.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-14 {
+  position: absolute;
+  top: 53px;
+  right: 54.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .line-12 {
+  background: #000000;
+  position: absolute;
+  right: 39.3px;
+  bottom: 0px;
+  width: 0.5px;
+  height: 232.5px;
+}
+.print-tab .totalwith-gst {
+  position: absolute;
+  top: 4.8px;
+  right: 0px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-33 {
+  position: absolute;
+  top: 96.4px;
+  right: 10.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-27 {
+  position: absolute;
+  top: 71.1px;
+  right: 10.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-34 {
+  position: absolute;
+  right: 10.3px;
+  bottom: 4.4px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-7 {
+  position: absolute;
+  top: 34.9px;
+  right: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-15 {
+  position: absolute;
+  top: 53px;
+  right: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-13 {
+  position: relative;
+  padding: 9.1px 0.5px 0 0.5px;
+  width: fit-content;
+  height: 232.5px;
+  box-sizing: border-box;
+}
+.print-tab .line-10 {
+  background: #000000;
+  margin: 0 0.6px 3.3px 0;
+  width: 260.2px;
+  height: 0.5px;
+}
+.print-tab .total-amount {
+  margin-right: 12.3px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 6.7px;
+  color: #4F4F4F;
+}
+.print-tab .rs-3368 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 700;
+  font-size: 6.7px;
+  color: #4F4F4F;
+}
+.print-tab .container-25 {
+  margin: 0 5.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.print-tab .with-gst {
+  margin: 0 5.3px 24px 5.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 4.8px;
+  color: rgba(79, 79, 79, 0.5);
+}
+.print-tab .thank-you-for-purchasing {
+  margin-right: 1px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 5px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .bill {
+  border: 0.5px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 11.9px 11.3px 47px 11.9px;
+  width: 284.1px;
+  box-sizing: border-box;
+}
+.print-tab .container-2 {
+  border-radius: 10px;
+  background: #4F4F4F;
+  position: relative;
+  margin: 8px 37px 0 0;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 0 10px;
+  width: 485px;
+  height: 522px;
+  box-sizing: border-box;
+}
+.print-tab .print {
+  margin-right: 9.6px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .group {
+  margin: 6px 0 5px 0;
+  width: 24px;
+  height: 24px;
+}
+.print-tab .container-1 {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.print-tab .rectangle-9 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-45deg);
+  position: absolute;
+  left: 13px;
+  top: 13px;
+  width: 14px;
+  height: 14px;
+}
+.print-tab .rectangle-10 {
+  border-radius: 2px;
+  background: #9CA19E;
+  transform: rotate(-135deg);
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.print-tab .close-print-tab {
+  border-radius: 20px;
+  background: rgba(41, 134, 89, 0.05);
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  padding: 13px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.print-tab .container-26 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 533px;
+  box-sizing: border-box;
+}
+.print-tab .sheets {
+  margin: 5px 12px 5px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container {
+  margin-right: 14px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .iconnavigationarrow-drop-down-24-px-1 {
+  margin-bottom: 8px;
+  width: 8px;
+  height: 5px;
+}
+.print-tab .iconnavigationarrow-drop-down-24-px {
+  margin-left: 0px;
+  width: 8px;
+  height: 5px;
+}
+.print-tab .container-11 {
+  margin: 2px 0 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.print-tab .container-10 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 6px 8px 4px 0;
+  width: 125px;
+  box-sizing: border-box;
+}
+.print-tab .container-7 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.print-tab .colour-print {
+  margin-right: 12px;
+  width: 209px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .rectangle-52 {
+  border-radius: 3px;
+  background: #FFFFFF;
+  width: 14px;
+  height: 14px;
+}
+.print-tab .container-24 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #298659;
+  position: relative;
+  margin: 2px 0;
+  display: flex;
+  padding: 3px;
+  width: 44px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.print-tab .container-3 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.print-tab .paper-dimension {
+  margin: 5px 18.5px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .a-4 {
+  margin-right: 14.6px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .iconnavigationarrow-drop-down-24-px-2 {
+  margin: 9px 0 10px 0;
+  width: 8px;
+  height: 5px;
+}
+.print-tab .container-15 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 6px 8px 4px 0;
+  width: 125px;
+  box-sizing: border-box;
+}
+.print-tab .container-16 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.print-tab .aspect-ratio {
+  margin: 5px 12px 5px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-23 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 0 4px 11px;
+  width: 125px;
+  box-sizing: border-box;
+}
+.print-tab .container-17 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.print-tab .line-13 {
+  background: #9CA19E;
+  margin: 0 13px 24px 0;
+  width: 520px;
+  height: 1px;
+}
+.print-tab .margin {
+  margin: 5px 12px 5px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .px {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-19 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab .px-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.print-tab .container-14 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #298659;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab .px-2 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-21 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab .px-3 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .container-4 {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 8.1px 4px 6px;
+  box-sizing: border-box;
+}
+.print-tab .custom {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--grey, #9CA19E);
+}
+.print-tab .container-22 {
+  border-radius: 5px;
+  border: 1px solid #9CA19E;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 7px 16.3px 3px 16px;
+  box-sizing: border-box;
+}
+.print-tab .container-8 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  box-sizing: border-box;
+}
+.print-tab .container-18 {
+  margin: 0 13px 25px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 520px;
+  box-sizing: border-box;
+}
+.print-tab .print-logo {
+  margin-right: 12px;
+  width: 209px;
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--accent-color, #4F4F4F);
+}
+.print-tab .rectangle-61 {
+  border-radius: 3px;
+  background: #FFFFFF;
+  width: 14px;
+  height: 14px;
+}
+.print-tab .container {
+  border-radius: 5px;
+  border: 1px solid #298659;
+  background: #298659;
+  position: relative;
+  margin: 2px 0;
+  display: flex;
+  padding: 3px;
+  width: 44px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.print-tab .container-6 {
+  margin-bottom: 109px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.print-tab .print-1 {
+  overflow-wrap: break-word;
+  font-family: 'Heebo';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.print-tab .final-print-button {
+  border-radius: 5px;
+  background: #298659;
+  position: relative;
+  margin: 0 13px;
+  display: flex;
+  align-self: flex-end;
+  padding: 8px 0 6px 0.3px;
+  width: 132px;
+  box-sizing: border-box;
+}
+.print-tab .container-20 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.print-tab {
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 9.8px;
+  background: #FFFFFF content-box, linear-gradient(285.2deg, #EAFFF5 -0.9%, #298659 100%) border-box;
+  border: 2px solid transparent;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 15px 28px 27px;
+  width: 1101px;
+  box-sizing: border-box;
+}
